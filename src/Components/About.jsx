@@ -10,7 +10,7 @@ const About = () => {
                manufacturing, telecommunications, renewable energy, consulting and technology startups. His experience ranges from setting up and growing
                Accounting and finance functions from scratch and leading accounting teams in their daily accounting operations across various countries in Africa.
                He currently runs his own consulting company that offers accounting, payroll, tax compliance, remote contoller and management consulting services to SME's.
-               He is a Certified Public Accountant - Kenya(CPA-K) and holds an MBA-Executive from Moi University - Kenya.
+               He is a  Certified Public Accountant - Kenya(CPA-K) and holds an MBA-Executive from Moi University - Kenya.
             </p>
         </div>
 
