@@ -11,7 +11,7 @@ const Footer = () => {
                 </h3>
                 <div>
                     <a href="https://www.linkedin.com/in/philip-wafula-61470b35/" target="_blank" rel="noopener noreferrer " className="text-white text-4xl font-montserrat font-bold">
-                        <IconBrandLinkedin className="w-10 h-10" />
+                        <IconBrandLinkedin className="w-10 h-10 hover:w-12 hover:h-12" />
                     </a>
                 </div>
             </div>

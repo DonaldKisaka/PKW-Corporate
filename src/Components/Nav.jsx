@@ -30,9 +30,9 @@ const Nav = () => {
 
             {/* Mobile */}
             <div className="hidden max-2md:block">
-              {isOpen ? (<IconX width={30} height={30} onClick={toggleMenu} className="absolute right-12 top-12 cursor-pointer z-50 transition-all duration-300 "/>)
+              {isOpen ? (<IconX width={30} height={30} onClick={toggleMenu} className="absolute right-12 top-12 cursor-pointer z-50 transition-all duration-300 hover:text-blue-500 "/>)
                : (
-                <IconMenu2 width={30} height={30} onClick={toggleMenu} className="cursor-pointer"/>
+                <IconMenu2 width={30} height={30} onClick={toggleMenu} className="cursor-pointer hover:text-blue-500"/>
                )}
             </div>
             {isOpen && (

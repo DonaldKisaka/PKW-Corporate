@@ -6,6 +6,10 @@
 @tailwind components;
 @tailwind utilities;
 
+html {
+  @apply scroll-smooth;
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -50,7 +54,7 @@
   }
 
   .padding-b {
-    @apply sm:pb-24 pb-12;
+    @apply sm:pb-24 pb-20;
   }
 
   .info-text {
