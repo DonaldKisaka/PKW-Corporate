@@ -13,7 +13,8 @@ const Nav = () => {
 
   return (
     <>
-      <header className="padding-x py-2 absolute z-10 w-full bg-slate-50">
+    {/* Desktop */}
+      <header className="padding-x py-2 z-10 w-full bg-slate-50 fixed">
         <nav className="flex justify-between items-center max-container">
             <a href="/">
                <img src={headerLogo} alt="logo" width={200} height={29} />

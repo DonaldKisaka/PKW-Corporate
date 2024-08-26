@@ -11,7 +11,7 @@ const Services = () => {
             <h2 className="font-montserrat text-2xl font-bold text-slate-gray text-center">Not your typical accountant</h2>
             <p className="text-center my-6 font-montserrat text-lg text-slate-gray leading-normal">
               Experience a refreshing approach to accounting, where innovation meets expertise. We
-              prioritize client satisfaction and deliver personalized solutions. Discover financial peace with my services
+              prioritize client satisfaction and deliver personalized solutions. Discover financial peace with our services
             </p>
 
             <div className="max-container flex justify-center flex-wrap gap-9 mt-6">

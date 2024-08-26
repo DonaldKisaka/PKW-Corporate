@@ -1,4 +1,4 @@
-import { calculator } from "../assets"
+import { img7, img8 } from "../assets"
 
 const About = () => {
   return (
@@ -15,7 +15,7 @@ const About = () => {
         </div>
 
         <div className="flex-1 flex justify-center items-center">
-            <img src={calculator} alt="calculator" width={570} height={522} className="object-contain" />
+            <img src={img8} alt="calculator" width={370} height={522} className="object-contain" />
         </div>
       </section>
     </>
