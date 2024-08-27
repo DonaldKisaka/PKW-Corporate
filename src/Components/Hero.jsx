@@ -14,7 +14,7 @@ const Hero = () => {
               <h1 className="text-2xl md:text-3xl text-slate-600 font-montserrat font-bold max-md:text-xl">Philip K. Wafula CPA(K) MBA</h1>
               <p className="text-xl
                text-slate-600 font-bold md:text-2xl">Accounting Consultant</p>
-              <p className="font-montserrat md:ml-5 text-slate-gray leading-loose text-lg md:text-xl mt-4 md:mt-10">Outsource your accounting and finance to an expert and concentrate on your core business.Let us handle your financials with precisions, so you can achieve more.</p>
+              <p className="font-montserrat md:h-0 md:ml-5 text-slate-gray leading-loose text-lg md:text-xl mt-4 md:mt-10">Outsource your accounting and finance to an expert and concentrate on your core business.Let us handle your financials with precisions, so you can achieve more.</p>
               <Button label="Book a Consultation" />
             </div>
         </div>

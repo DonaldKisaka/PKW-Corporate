@@ -10,10 +10,10 @@ const Contact = () => {
               <a href="/" className="no-underline text-black p-10 inline-block  font-medium transition-all duration-200 mb-2   hover:text-blue-500">
                 <IconPhone /> &nbsp; +254 722 612 657
               </a>
-              <a href="/" className="no-underline inline-block p-10  text-black font-medium transition-all duration-200 mb-2   hover:text-blue-500">
+              <a href="mailto:pwafula@pkw.finance" className="no-underline inline-block p-10  text-black font-medium transition-all duration-200 mb-2   hover:text-blue-500">
                 <IconMail /> &nbsp; pwafula@pkw.finance
               </a>
-              <a href="mailto:pwafula@pkw.finance" className="no-underline inline-block p-10 text-black font-medium transition-all duration-200 mb-2   hover:text-blue-500">
+              <a href="/" className="no-underline inline-block p-10 text-black font-medium transition-all duration-200 mb-2   hover:text-blue-500">
                 <IconLocation /> &nbsp; Nairobi, Kenya
               </a>
         </div>
