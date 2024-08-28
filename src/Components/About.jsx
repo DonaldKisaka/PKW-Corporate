@@ -1,4 +1,5 @@
 import { calculator, img7, img8 } from "../assets"
+import { IconBrandLinkedin } from "@tabler/icons-react"
 
 const About = () => {
   return (
@@ -12,6 +13,9 @@ const About = () => {
                He currently runs his own consulting company that offers accounting, payroll, tax compliance, remote contoller and management consulting services to SME's.
                He is a  Certified Public Accountant - Kenya(CPA-K) and holds an MBA-Executive from Moi University - Kenya.
             </p>
+            <a href="https://www.linkedin.com/in/philip-wafula-61470b35/" target="_blank" rel="noopener noreferrer " className="text-white text-4xl font-montserrat font-bold">
+              <IconBrandLinkedin className="w-10 h-10 hover:w-12 hover:h-12 text-slate-gray" />
+            </a>
         </div>
 
         <div className="flex-1 flex justify-center items-center">

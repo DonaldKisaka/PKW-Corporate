@@ -10,6 +10,7 @@ import img5 from './side-view-cropped-man-working-financial-report.jpg'
 import img6 from './lukas-blazek-mcSDtbWXUZU-unsplash.jpg'
 import img7 from './Untitled design (1).png'
 import img8 from './IMG_7316.jpg'
+import img9 from './IMG_1100-exp.jpg'
 
 
 export {
@@ -24,5 +25,6 @@ export {
     img5,
     img6,
     img7,
-    img8
+    img8,
+    img9
 }
