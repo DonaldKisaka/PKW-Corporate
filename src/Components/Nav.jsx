@@ -17,7 +17,7 @@ const Nav = () => {
       <header className="padding-x py-2 z-10 w-full bg-slate-50 fixed">
         <nav className="flex justify-between items-center max-container">
             <a href="/">
-               <img src={headerLogo} alt="logo" width={200} height={29} />
+               <img src={headerLogo} loading="lazy" alt="logo" width={190} height={29} />
             </a>
             <ul className="flex-1 flex justify-center items-center gap-16 max-2md:hidden">
                 {navLinks.map((item) => (

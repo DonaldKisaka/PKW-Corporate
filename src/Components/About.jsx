@@ -1,4 +1,4 @@
-import { calculator, img7, img8 } from "../assets"
+import { img10, philip } from "../assets"
 import { IconBrandLinkedin } from "@tabler/icons-react"
 
 const About = () => {
@@ -19,7 +19,7 @@ const About = () => {
         </div>
 
         <div className="flex-1 flex justify-center items-center">
-            <img src={calculator} alt="calculator" width={370} height={522} className="object-contain" />
+            <img src={philip} alt="philip" loading="lazy" width={370} height={522} className="object-contain" />
         </div>
       </section>
     </>

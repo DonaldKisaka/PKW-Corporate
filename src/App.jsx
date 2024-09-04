@@ -1,9 +1,9 @@
 import About from "./Components/About";
-import Contact from "./Components/Contact";
 import Hero from "./Components/Hero";
 import Nav from "./Components/Nav";
 import Services from "./Components/Services";
 import Footer from "./Components/Footer";
+import Patners from "./Components/Patners";
 
 const App = () => {
   return (
@@ -20,9 +20,9 @@ const App = () => {
           <Services />
         </section>
         <section className="padding-x">
-          <Contact />
+          <Patners />
         </section>
-        <section className="bg-slate-gray padding-x padding-t pb-8">
+        <section id="contact" className="bg-slate-gray padding-x padding-t pb-8">
           <Footer />
         </section>
       </main>
