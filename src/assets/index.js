@@ -14,7 +14,7 @@ import blackwealth from './blackwealth.png'
 import balozi from './balozi.png'
 import gobeba from './GoBEBA.png'
 import kicha from './kicha Logo.png'
-import philip from './Philip.jpg'
+import philip from './Phil.jpg'
 
 export {
     headerLogo,
