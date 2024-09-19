@@ -1,5 +1,6 @@
 {
   "name": "vite-project",
+  "homepage":"https://pkw.finance",
   "private": true,
   "version": "0.0.0",
   "type": "module",
