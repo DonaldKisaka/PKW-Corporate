@@ -1,4 +1,4 @@
-import { img1, img2, img3, img4, img5, img6 } from "../assets"
+import { img1, img2, img3, img4, img5, img6 } from "../assets/images"
 
 export const navLinks = [
     { href: "#home", label: "Home"},

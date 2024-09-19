@@ -1,4 +1,4 @@
-import { andela, blackwealth, IBN, intouch, travelstart, balozi, gobeba, kicha } from "../assets";
+import { andela, blackwealth, IBN, intouch, travelstart, balozi, gobeba, kicha } from "../assets/images";
 
 const Patners = () => {
   return (

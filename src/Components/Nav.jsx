@@ -1,4 +1,4 @@
-import { headerLogo } from "../assets"
+import { headerLogo } from "../assets/images"
 import { navLinks } from "../constants"
 import { useState } from "react"
 import { IconMenu2, IconX } from "@tabler/icons-react"
