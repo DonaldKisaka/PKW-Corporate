@@ -1,4 +1,4 @@
-import { img10, philip } from "../assets"
+import { philip } from "../assets"
 import { IconBrandLinkedin } from "@tabler/icons-react"
 
 const About = () => {
