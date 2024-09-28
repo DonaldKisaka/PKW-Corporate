@@ -6,7 +6,7 @@ const Hero = () => {
 
   return (
     <>
-      <section id="home" className="bg-hero w-full min-h-screen h-auto flex flex-col md:flex-row max-w-screen-xl mx-auto padding-x relative padding-y">
+      <section id="home" className="bg-hero w-full min-h-screen h-auto flex flex-col md:flex-row max-w-screen-wide mx-auto padding-x relative padding-y">
         <div className="absolute"></div>
         <div className="container mx-auto px-4">
           <div className="flex flex-col items-center md:flex-row justify-center">
