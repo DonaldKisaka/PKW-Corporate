@@ -10,7 +10,7 @@ const App = () => {
     <>
       <main className="relative">
         <Nav />
-        <section className="wide:padding-r padding-b">
+        <section className="padding-b">
           <Hero />
         </section>
         <section className="padding">
